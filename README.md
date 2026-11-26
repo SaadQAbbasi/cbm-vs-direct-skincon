@@ -73,6 +73,9 @@ Figure 1 is the model diagram and has no code.
 
 ## Authors
 
+- Saad Qasim Abbasi ([@SaadQAbbasi](https://github.com/SaadQAbbasi))
+- Francesca Conti ([@fraktc](https://github.com/fraktc))
+
 Both authors contributed equally. Most of the work was done together: the study design, the data pipeline, the models and their training, the cross-validation, the interpretation of the results and the report. Within this, Saad focused more on the model training and the concept probing (Table 1, Figure 2), and Francesca on the SHAP and Grad-CAM analyses (Figures 3–7).
 
 ## Data and models
