@@ -71,6 +71,10 @@ Everything is seeded. On different hardware or library versions, the third decim
 
 Figure 1 is the model diagram and has no code.
 
+## Authors
+
+Both authors contributed equally. Most of the work was done together: the study design, the data pipeline, the models and their training, the cross-validation, the interpretation of the results and the report. Within this, Saad focused more on the model training and the concept probing (Table 1, Figure 2), and Francesca on the SHAP and Grad-CAM analyses (Figures 3–7).
+
 ## Data and models
 
 - Fitzpatrick17k: Groh et al., 2021, via Kaggle (`asosenge/fitzpatrick17k`).
