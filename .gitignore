@@ -1,0 +1,5 @@
+# Fitzpatrick17k images downloaded by the notebook through kagglehub
+data/
+
+.ipynb_checkpoints/
+__pycache__/
